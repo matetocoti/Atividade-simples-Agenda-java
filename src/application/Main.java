@@ -75,7 +75,7 @@ public class Main {
                             rodar = false;
                             break;
                         default:
-                            System.out.println("Envalido!");
+                            System.out.println("inválido!");
                             break;
                     }
                  }
